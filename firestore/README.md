@@ -1,5 +1,9 @@
 # Google Cloud Firestore API Samples
 
+
+
+
+
 These samples show how to use the [Google Cloud Firestore API][cloud-firestore-api] to store and query data.
 
 [cloud-firestore-api]: http://cloud.google.com/cloud-firestore
@@ -59,6 +63,10 @@ authentication:
 1. Set `GOOGLE_APPLICATION_CREDENTIALS` environment variable pointing to that file.
 
 ## Samples
+To run the examples on browsers with command visit
+https://www.answiz.com/questions/29111/perform-crud-operation-on-cloud-firestore-in-php
+now you can execute all the examples listed on below url in browser
+https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/firestore/src
 
 To run the Cloud Firestore Samples:
 
